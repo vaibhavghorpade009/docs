@@ -7,3 +7,4 @@ root: ./
 redirects:  
     project1/page: project2/page.md
     help: ./integration/mappings.md
+    contactus: https://www.inogic.com
