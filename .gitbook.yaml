@@ -6,4 +6,4 @@ root: ./
     
 redirects:  
     project1/page: project2/page.md
-    docs/configuration/basic-configuration: docs/integration/mappings
+    configuration/basic-configuration: integration/mappings.md
